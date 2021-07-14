@@ -1,0 +1,14 @@
+.masthead {
+    height: 100vh;
+    min-height: 300px;
+    margin: 0 20px;
+    background-image: url("img/corinne-kutz-tMI2_-r5Nfo-unsplash.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+#head {
+    background-color:#00000094;
+    color: white;
+}
